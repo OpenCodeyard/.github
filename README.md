@@ -1,4 +1,3 @@
-# .github
 <h1>Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to GCELT Open Source</h1>
 
 ##### GCELT Open Source (GOS) is the collaboration group for young programmers and Computer Science students from GCELT.
