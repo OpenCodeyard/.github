@@ -43,7 +43,18 @@
 </p>
 <h2 align="center">Organization guidelines</h2>
 <p align="center">
-  <img align="center" src="https://github.com/GCELTIANS2020/GCELTIANS2020/blob/5fccdde4d7c97298046e2b3b1b9a9ff64cfa1ef2/Assets/working%20on.gif" width="240">
+
+- Everyone must respect each other.
+- No racism or discrimination allowed.
+- Fights and quarrels are totally restricted. If in case there is any problem, be free to talk to the admins personally. 
+- Do not advertise in any issue comment/description.
+- Make sure to be polite while asking for working on a issue.
+- Listen. Consider and acknowledge people's points before responding.
+- Please enjoy, have fun and make new friends so that they can support you in anything.
+- Thanks for your support and co-operation.
+ 
+Failing to comply with these rules repeatedly will lead to immediate termination from organization
+</p>
 
 <br>
 <br>
