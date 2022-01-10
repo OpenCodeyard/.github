@@ -15,7 +15,7 @@
 - 📫 *Email us at*  [![Gmail Badge](https://img.shields.io/badge/-adm.gceltos@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](mailto:adm.gceltos@gmail.com)
 
 
-- 🤝 *Join the community*  [![Discord Badge](https://img.shields.io/badge/-code@gos-738adb?style=plastic&logo=Discord&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](https://www.discord.com)
+- 🤝 *Join the community*  [![Discord Badge](https://img.shields.io/badge/-code@gos-738adb?style=plastic&logo=Discord&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](https://discord.gg/BQBrXRMTFQ)
 
 - :warning: Don't Commit on main when drunk :stuck_out_tongue_winking_eye:
 
