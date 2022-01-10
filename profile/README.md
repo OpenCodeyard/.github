@@ -17,6 +17,8 @@
 
 - 🤝 *Join the community*  [![Discord Badge](https://img.shields.io/badge/-code@gos-738adb?style=plastic&logo=Discord&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](https://discord.gg/BQBrXRMTFQ)
 
+- 📚 We are listening. Post a new discussion or ask questions at [discussions page](https://github.com/GCELTIANS2020/GCELTIANS2020/discussions)
+ 
 - :warning: Don't Commit on main when drunk :stuck_out_tongue_winking_eye:
 
 </div>
