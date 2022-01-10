@@ -9,9 +9,6 @@
 
 - 📚 *We are growing everyday. Drop a join request at our mail id or discord, we will be happy to add you.*
 
-- :construction: *Organization under construction. Cool stuff coming soon!*
-
-
 - 📫 *Email us at*  [![Gmail Badge](https://img.shields.io/badge/-adm.gceltos@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](mailto:adm.gceltos@gmail.com)
 
 
