@@ -1,11 +1,11 @@
-<h1>Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to GCELT Open Source</h1>
+<h1>Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to Open Source Paradise</h1>
 
-##### GCELT Open Source (GOS) is the collaboration group for young programmers and Computer Science students from GCELT.
+##### Open Source Paradise is the collaboration group for young programmers and Computer Science students as well as professionals.
 
 <div>
 <img align="right" src="https://user-images.githubusercontent.com/67138059/113822290-e05ed080-979a-11eb-80fc-07a931bbfb2b.gif" width="240">
 
-- ⚡ **Official Organization account of GCELT Open Source**
+- ⚡ **Official Organization account of Open Source Paradise**
 
 - 📚 *We are growing everyday. Drop a join request at our mail id or discord, we will be happy to add you.*
 
