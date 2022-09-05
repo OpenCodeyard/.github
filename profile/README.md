@@ -14,7 +14,7 @@
 
 - 🤝 *Join the community*  [![Discord Badge](https://img.shields.io/badge/-code@gos-738adb?style=plastic&logo=Discord&logoColor=white)](https://discord.gg/BQBrXRMTFQ)
 
-- 📚 We are listening. Post a new discussion or ask questions at [discussions page](https://github.com/OpenCodeyard/OpenCodeyard/discussions)
+- 📚 We are listening. Post a new discussion or ask questions at [discussions page](https://github.com/OpenCodeyard/discussions/discussions)
  
 - :warning: Don't Commit on main when drunk :stuck_out_tongue_winking_eye:
 
