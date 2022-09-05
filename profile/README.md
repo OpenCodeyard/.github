@@ -1,4 +1,4 @@
-<h1>Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to Open Source Paradise</h1>
+<h1>Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to Open Codeyard</h1>
 
 ##### Open Codeyard is the collaboration group for young programmers and Computer Science students as well as professionals.
 
