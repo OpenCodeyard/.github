@@ -1,11 +1,11 @@
 <h1>Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to Open Source Paradise</h1>
 
-##### Open Source Paradise is the collaboration group for young programmers and Computer Science students as well as professionals.
+##### Open Codeyard is the collaboration group for young programmers and Computer Science students as well as professionals.
 
 <div>
 <img align="right" src="https://user-images.githubusercontent.com/67138059/113822290-e05ed080-979a-11eb-80fc-07a931bbfb2b.gif" width="240">
 
-- ⚡ **Official Organization account of Open Source Paradise**
+- ⚡ **Official Organization account of Open Codeyard**
 
 - 📚 *We are growing everyday. Drop a join request at our mail id or discord, we will be happy to add you.*
 
@@ -14,7 +14,7 @@
 
 - 🤝 *Join the community*  [![Discord Badge](https://img.shields.io/badge/-code@gos-738adb?style=plastic&logo=Discord&logoColor=white)](https://discord.gg/BQBrXRMTFQ)
 
-- 📚 We are listening. Post a new discussion or ask questions at [discussions page](https://github.com/GCELTIANS2020/GCELTIANS2020/discussions)
+- 📚 We are listening. Post a new discussion or ask questions at [discussions page](https://github.com/OpenCodeyard/OpenCodeyard/discussions)
  
 - :warning: Don't Commit on main when drunk :stuck_out_tongue_winking_eye:
 
@@ -45,14 +45,16 @@
 
 - Everyone must respect each other.
 - No racism or discrimination allowed.
-- Fights and quarrels are totally restricted. If in case there is any problem, be free to talk to the admins personally. 
+- Fights and quarrels are totally restricted. If in case there is any problem, be free to talk to the admins in community. 
 - Do not advertise in any issue comment/description.
 - Make sure to be polite while asking for working on a issue.
 - Listen. Consider and acknowledge people's points before responding.
 - Please enjoy, have fun and make new friends so that they can support you in anything.
 - Thanks for your support and co-operation.
- 
-Failing to comply with these rules repeatedly will lead to immediate termination from organization
+
+<b> Failing to comply with these rules repeatedly will lead to immediate termination from organization </b>
+
+
 </p>
 
 <br>
