@@ -9,7 +9,7 @@
 
 - 📚 *We are growing everyday. Drop a join request at our mail id or discord, we will be happy to add you.*
 
-- 📫 *Email us at* &nbsp; [![Gmail Badge](https://img.shields.io/badge/-adm.opencodeyard@gmail.com-c14438?style=social&logo=Gmail&logoColor=c14438&link=mailto:adm.opencodeyard@gmail.com)](mailto:adm.opencodeyard@gmail.com)
+- 📫 *Email us at* &nbsp; [![Gmail Badge](https://img.shields.io/badge/-support@opencodeyard.tech-c14438?style=social&logo=Gmail&logoColor=c14438&link=mailto:support@opencodeyard.tech)](mailto:support@opencodeyard.tech)
 
 
 -  🤝 **Join the community** &nbsp; [![Discord Badge](https://img.shields.io/badge/-Open%20Codeyard-738adb?style=social&logo=Discord&logoColor=738adb)](https://discord.gg/BQBrXRMTFQ)
