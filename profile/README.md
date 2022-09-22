@@ -7,12 +7,12 @@
 
 - ⚡ **Official Organization account of Open Codeyard**
 
-- 📚 *We are growing everyday. Drop a join request at our mail id or discord, we will be happy to add you.*
+- 📚 *We are growing everyday. Drop a join request at our mail id or telegram, we will be happy to add you.*
 
 - 📫 *Email us at* &nbsp; [![Gmail Badge](https://img.shields.io/badge/-support@opencodeyard.tech-c14438?style=social&logo=Gmail&logoColor=c14438&link=mailto:support@opencodeyard.tech)](mailto:support@opencodeyard.tech)
 
 
--  🤝 **Join the community** &nbsp; [![Discord Badge](https://img.shields.io/badge/-Open%20Codeyard-738adb?style=social&logo=Discord&logoColor=738adb)](https://discord.gg/BQBrXRMTFQ)
+-  🤝 **Join the community** &nbsp; [![Telegram Badge](https://img.shields.io/badge/-Open%20Codeyard-738adb?style=social&logo=Telegram&logoColor=738adb)](https://t.me/Open_Codeyard)
 
 - 📚 We are listening. Post a new discussion or ask questions at [discussions page](https://github.com/OpenCodeyard/discussions/discussions)
  
